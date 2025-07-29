@@ -1,0 +1,1 @@
+{"Accuracy": 31.097560975609756, "Attack_Success_rate": 21.341463414634145, "Cont_Success_rate": 99.39024390243902, "LLM_calls": 800, "Mean_Review_rounds": 1.0682926829268293, "Mean_Test_rounds": 2.5017421602787455}
